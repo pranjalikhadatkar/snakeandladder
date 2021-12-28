@@ -38,8 +38,6 @@ public class snakeandladderUC4 {
 	      }
 	      System.out.println();
 	      if (position >= 100)
-	      System.out.println("-------------------");
-	      System.out.println("    PLAYER WON");
-	      System.out.println("-------------------");
+	      System.out.println("PLAYER WON")
 	      }
 }
